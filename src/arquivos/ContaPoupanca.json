@@ -1,0 +1,25 @@
+[{
+        "idCliente": "102040",
+        "numeroConta": 0,
+        "saldo": 0.0,
+        "limiteSaque": 0.0,
+        "agencia": null
+    }, {
+        "idCliente": "102040",
+        "numeroConta": 504,
+        "saldo": 500.0,
+        "limiteSaque": 200.0,
+        "agencia": "D38"
+    }, {
+        "idCliente": "102040",
+        "numeroConta": 806,
+        "saldo": 600.0,
+        "limiteSaque": 630.0,
+        "agencia": "C303"
+    }, {
+        "idCliente": "874562",
+        "numeroConta": 511,
+        "saldo": 900.0,
+        "limiteSaque": 900.0,
+        "agencia": "639"
+    }]

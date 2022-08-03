@@ -1,0 +1,25 @@
+[{
+        "senha": "5",
+        "telefone": "161",
+        "endereco": "GHDGDGH",
+        "cpf": "456",
+        "nome": "Renata"
+    }, {
+        "senha": "789",
+        "telefone": "5454q",
+        "endereco": "Rua jsjs",
+        "cpf": "2031",
+        "nome": "João"
+    }, {
+        "senha": "69327",
+        "telefone": "5744",
+        "endereco": "RUA JB SASA",
+        "cpf": "102040",
+        "nome": "MARCELO"
+    }, {
+        "senha": "741",
+        "telefone": "22145",
+        "endereco": "Rua Amarelo",
+        "cpf": "874562",
+        "nome": "Joaquim"
+    }]
